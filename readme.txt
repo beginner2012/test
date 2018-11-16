@@ -14,6 +14,7 @@ git reflog
 git reflog
 add 
 commit -m
+git add 
 
 版本回退
 
