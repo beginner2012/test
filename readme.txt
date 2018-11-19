@@ -15,6 +15,7 @@ git reflog
 add 
 commit -m
 git add 
+wqfl
 
 版本回退
 
